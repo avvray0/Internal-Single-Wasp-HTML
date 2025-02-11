@@ -15,6 +15,7 @@
 .navbar82-navbar-interactive {
   width: 100%;
   z-index: 100;
+  display: flex;
   max-width: var(--dl-size-size-maxwidth);
   align-items: center;
   padding-top: var(--dl-space-space-oneandhalfunits);
@@ -36,6 +37,7 @@
  
 .navbar82-desktop-menu {
   flex: 1;
+  display: flex;
   justify-content: space-between;
 }
  
@@ -137,6 +139,7 @@
 .navbar82-mobile-menu {
   top: 0px;
   left: 0px;
+  display: flex;
   width: 100%;
   height: 100vh;
   padding: var(--dl-space-space-twounits);
@@ -148,6 +151,7 @@
 }
  
 .navbar82-nav {
+  display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
