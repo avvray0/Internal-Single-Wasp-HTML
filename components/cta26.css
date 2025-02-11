@@ -56,6 +56,14 @@
   background-image: linear-gradient(90deg, rgb(189, 195, 199) 0.00%,rgb(255, 196, 2) 100.00%);
 }
  
+.cta26-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+ 
 .cta26-actions {
   gap: var(--dl-space-space-oneandhalfunits);
   flex: 1;
@@ -88,6 +96,7 @@
  
 .cta26-text7 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .cta26-fragment4 {

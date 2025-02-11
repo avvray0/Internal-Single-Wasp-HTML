@@ -198,12 +198,6 @@
   display: inline-block;
 }
  
-.features25root-class-name {
-  flex: 1;
-  width: auto;
-  align-self: center;
-}
- 
 @media(max-width: 991px) {
   .features25-container2 {
     grid-gap: var(--dl-space-space-twounits);

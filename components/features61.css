@@ -1,0 +1,134 @@
+.features61-layout216 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.features61-max-width {
+  gap: var(--dl-space-space-threeunits);
+}
+ 
+.features61-image1 {
+  width: 720px;
+}
+ 
+.features61-content {
+  width: 510px;
+}
+ 
+.features61-section-title {
+  align-items: flex-start;
+}
+ 
+.features61-list {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.features61-list-item {
+  align-items: flex-start;
+}
+ 
+.features61-actions {
+  align-self: flex-start;
+}
+ 
+.features61-button1 {
+  text-decoration: none;
+}
+ 
+.features61-button2 {
+  text-decoration: none;
+}
+ 
+.features61-fragment1 {
+  display: contents;
+}
+ 
+.features61-text4 {
+  display: inline-block;
+}
+ 
+.features61-fragment2 {
+  display: contents;
+}
+ 
+.features61-text5 {
+  display: inline-block;
+}
+ 
+.features61-fragment3 {
+  display: contents;
+}
+ 
+.features61-text6 {
+  display: inline-block;
+}
+ 
+.features61-fragment4 {
+  display: contents;
+}
+ 
+.features61-text7 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.features61-fragment5 {
+  display: contents;
+}
+ 
+.features61-text8 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.features61-fragment6 {
+  display: contents;
+}
+ 
+.features61-text9 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+@media(max-width: 991px) {
+  .features61-layout216 {
+    width: 100%;
+  }
+  .features61-max-width {
+    flex-direction: column;
+  }
+  .features61-image1 {
+    width: 100%;
+  }
+  .features61-content {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .features61-max-width {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .features61-list {
+    flex-direction: column;
+  }
+  .features61-actions {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: var(--dl-space-space-unit);
+  }
+  .features61-button1 {
+    width: 100%;
+  }
+  .features61-button2 {
+    width: 100%;
+  }
+}

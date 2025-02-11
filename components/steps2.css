@@ -3,7 +3,7 @@
   display: flex;
   position: relative;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
 }
  
@@ -28,10 +28,26 @@
   flex-direction: column;
 }
  
+.steps2-text10 {
+  font-family: "Magistral-Medium";
+}
+ 
+.steps2-text11 {
+  font-family: "Magistral-Medium";
+}
+ 
 .steps2-actions {
   gap: var(--dl-space-space-unit);
   display: flex;
   align-items: flex-start;
+}
+ 
+.steps2-button {
+  text-decoration: none;
+}
+ 
+.steps2-text12 {
+  font-family: "Magistral-Medium";
 }
  
 .steps2-container3 {
@@ -127,6 +143,7 @@
  
 .steps2-text25 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .steps2-fragment2 {
@@ -135,6 +152,7 @@
  
 .steps2-text26 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .steps2-fragment3 {
@@ -143,6 +161,7 @@
  
 .steps2-text27 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .steps2-fragment4 {
@@ -151,6 +170,7 @@
  
 .steps2-text28 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .steps2-fragment5 {
@@ -159,6 +179,7 @@
  
 .steps2-text29 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .steps2-fragment6 {
@@ -167,6 +188,7 @@
  
 .steps2-text30 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .steps2-fragment7 {
@@ -175,6 +197,7 @@
  
 .steps2-text31 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .steps2-fragment8 {
@@ -183,6 +206,7 @@
  
 .steps2-text32 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 @media(max-width: 991px) {

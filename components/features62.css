@@ -1,0 +1,141 @@
+.features62-layout216 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.features62-max-width {
+  gap: var(--dl-space-space-threeunits);
+  width: 548px;
+  height: 292px;
+}
+ 
+.features62-content {
+  width: 589px;
+}
+ 
+.features62-section-title {
+  align-items: flex-start;
+}
+ 
+.features62-list {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.features62-list-item1 {
+  align-items: flex-start;
+}
+ 
+.features62-list-item2 {
+  align-items: flex-start;
+}
+ 
+.features62-actions {
+  align-self: flex-start;
+}
+ 
+.features62-button1 {
+  text-decoration: none;
+}
+ 
+.features62-button2 {
+  text-decoration: none;
+}
+ 
+.features62-fragment1 {
+  display: contents;
+}
+ 
+.features62-text15 {
+  display: inline-block;
+}
+ 
+.features62-fragment2 {
+  display: contents;
+}
+ 
+.features62-text16 {
+  display: inline-block;
+}
+ 
+.features62-fragment3 {
+  display: contents;
+}
+ 
+.features62-text17 {
+  display: inline-block;
+}
+ 
+.features62-fragment4 {
+  display: contents;
+}
+ 
+.features62-text18 {
+  display: inline-block;
+}
+ 
+.features62-fragment5 {
+  display: contents;
+}
+ 
+.features62-text19 {
+  display: inline-block;
+}
+ 
+.features62-fragment6 {
+  display: contents;
+}
+ 
+.features62-text20 {
+  display: inline-block;
+}
+ 
+.features62-fragment7 {
+  display: contents;
+}
+ 
+.features62-text21 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .features62-layout216 {
+    width: 100%;
+  }
+  .features62-max-width {
+    flex-direction: column;
+  }
+  .features62-image1 {
+    width: 100%;
+  }
+  .features62-content {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .features62-max-width {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .features62-list {
+    flex-direction: column;
+  }
+  .features62-actions {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: var(--dl-space-space-unit);
+  }
+  .features62-button1 {
+    width: 100%;
+  }
+  .features62-button2 {
+    width: 100%;
+  }
+}

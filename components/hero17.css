@@ -27,12 +27,12 @@
   flex-direction: column;
 }
  
-.hero17-text1 {
+.hero17-text10 {
   text-align: center;
   font-family: "Magistral-Medium";
 }
  
-.hero17-text2 {
+.hero17-text11 {
   text-align: center;
 }
  
@@ -41,6 +41,14 @@
   display: flex;
   align-items: flex-start;
   padding-top: var(--dl-space-space-unit);
+}
+ 
+.hero17-button {
+  text-decoration: none;
+}
+ 
+.hero17-link {
+  text-decoration: none;
 }
  
 .hero17-content2 {
@@ -56,62 +64,22 @@
   width: 100%;
 }
  
-.hero17-placeholder-image10 {
+.hero17-placeholder-image1 {
   width: 400px;
   height: 400px;
 }
  
-.hero17-placeholder-image11 {
+.hero17-placeholder-image2 {
   width: 400px;
   height: 400px;
 }
  
-.hero17-placeholder-image12 {
+.hero17-placeholder-image3 {
   width: 400px;
   height: 400px;
 }
  
-.hero17-placeholder-image13 {
-  width: 400px;
-  height: 400px;
-}
- 
-.hero17-placeholder-image14 {
-  width: 400px;
-  height: 400px;
-}
- 
-.hero17-placeholder-image15 {
-  width: 400px;
-  height: 400px;
-}
- 
-.hero17-placeholder-image16 {
-  width: 400px;
-  height: 400px;
-}
- 
-.hero17-placeholder-image17 {
-  width: 400px;
-  height: 400px;
-}
- 
-.hero17-placeholder-image18 {
-  width: 400px;
-  height: 400px;
-}
- 
-.hero17-placeholder-image19 {
-  width: 400px;
-  height: 400px;
-}
- 
-.hero17-placeholder-image20 {
-  width: 400px;
-  height: 400px;
-}
- 
-.hero17-placeholder-image21 {
+.hero17-placeholder-image4 {
   width: 400px;
   height: 400px;
 }
@@ -120,7 +88,7 @@
   width: 100%;
 }
  
-.hero17-strip3 {
+.hero17-strip2 {
   border-color: var(--dl-color-theme-primary1);
   border-style: dashed;
   border-width: 4px;
@@ -134,12 +102,12 @@
   display: contents;
 }
  
-.hero17-text4 {
+.hero17-text13 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
  
-.hero17-text6 {
+.hero17-text15 {
   color: var(--dl-color-theme-neutral-dark);
 }
  
@@ -147,7 +115,7 @@
   display: contents;
 }
  
-.hero17-text8 {
+.hero17-text17 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -156,8 +124,23 @@
   display: contents;
 }
  
-.hero17-text9 {
+.hero17-text18 {
+  color: var(--dl-color-theme-primary1);
   display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.hero17-fragment4 {
+  display: contents;
+}
+ 
+.hero17-text19 {
+  display: inline-block;
+}
+ 
+.hero17root-class-name {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
 }
  
 @media(max-width: 767px) {
@@ -167,7 +150,7 @@
 }
  
 @media(max-width: 479px) {
-  .hero17-text1 {
+  .hero17-text10 {
     width: 420px;
     height: 132px;
   }
