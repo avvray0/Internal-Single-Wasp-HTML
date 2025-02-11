@@ -4,6 +4,7 @@
  
 .navbar82-container1 {
   top: 0;
+  display: flex;
   width: 100%;
   z-index: 1000;
   position: sticky;
@@ -13,7 +14,6 @@
  
 .navbar82-navbar-interactive {
   width: 100%;
-  display: flex;
   z-index: 100;
   max-width: var(--dl-size-size-maxwidth);
   align-items: center;
@@ -57,6 +57,7 @@
 .navbar82-link4-dropdown-trigger {
   gap: 4px;
   cursor: pointer;
+  display: flex;
   align-self: stretch;
   align-items: center;
   flex-direction: row;
