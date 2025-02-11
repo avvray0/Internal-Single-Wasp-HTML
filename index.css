@@ -58,7 +58,7 @@
 .navbar82-link4-dropdown-trigger {
   gap: 4px;
   cursor: pointer;
-  display: flex;
+  display: none;
   align-self: stretch;
   align-items: center;
   flex-direction: row;
