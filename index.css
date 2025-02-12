@@ -645,7 +645,7 @@
   flex-direction: column;
 }
  
-.hero17-column1 {
+.hero17-column {
   gap: var(--dl-space-space-oneandhalfunits);
   width: auto;
   height: 393px;
@@ -656,34 +656,6 @@
 }
  
 .hero17-content1 {
-  gap: var(--dl-space-space-oneandhalfunits);
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: 222px;
-  display: flex;
-  align-self: stretch;
-  align-items: center;
-  flex-direction: column;
-}
- 
-.hero17-actions1 {
-  gap: var(--dl-space-space-unit);
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: flex-start;
-  padding-top: var(--dl-space-space-unit);
-}
- 
-.hero17-column2 {
-  gap: var(--dl-space-space-oneandhalfunits);
-  width: auto;
-  height: 393px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  padding-bottom: var(--dl-space-space-unit);
-}
- 
-.hero17-content2 {
   gap: var(--dl-space-space-oneandhalfunits);
   height: 222px;
   display: flex;
@@ -702,7 +674,7 @@
   text-align: center;
 }
  
-.hero17-actions2 {
+.hero17-actions {
   gap: var(--dl-space-space-unit);
   display: flex;
   align-items: flex-start;
@@ -717,7 +689,7 @@
   text-decoration: none;
 }
  
-.hero17-content3 {
+.hero17-content2 {
   gap: var(--dl-space-space-oneandhalfunits);
   width: 100%;
   display: flex;
@@ -810,21 +782,17 @@
 }
  
 @media(max-width: 767px) {
-  .hero17-content3 {
+  .hero17-content2 {
     width: 100%;
   }
 }
  
 @media(max-width: 479px) {
-  .hero17-actions1 {
-    width: 100%;
-    flex-direction: column;
-  }
   .hero17-text10 {
     width: 420px;
     height: 132px;
   }
-  .hero17-actions2 {
+  .hero17-actions {
     width: 100%;
     flex-direction: column;
   }
@@ -2379,7 +2347,7 @@
   }
 }
 
-.home-container {
+.home-container1 {
   width: 100%;
   display: flex;
   min-height: 100vh;
@@ -2512,6 +2480,14 @@
  
 .home-text24 {
   display: inline-block;
+}
+ 
+.home-container2 {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 285px;
+  display: flex;
+  align-items: flex-start;
 }
  
 .home-fragment25 {
