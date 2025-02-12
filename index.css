@@ -779,6 +779,9 @@
 }
  
 @media(max-width: 767px) {
+  .hero17-text11 {
+    width: 100%;
+  }
   .hero17-content2 {
     width: 100%;
   }
