@@ -160,13 +160,15 @@
   .hero17-text11 {
     width: 378px;
     height: 100%;
+    font-size: 17px;
   }
   .hero17-container1 {
     height: 68px;
     border-color: #787878;
   }
   .hero17-button {
-    width: 100%;
+    width: 292px;
+    height: 36px;
   }
   .hero17-text15 {
     font-family: Magistral-Medium;
