@@ -161,4 +161,10 @@
   .hero17-button {
     width: 100%;
   }
+  .hero17-text13 {
+    font-family: Magistral-Medium;
+  }
+  .hero17-text15 {
+    color: var(--dl-color-theme-neutral-dark);
+  }
 }

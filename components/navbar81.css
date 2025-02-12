@@ -2,7 +2,7 @@
   display: contents;
 }
  
-.navbar82-container1 {
+.navbar82-container10 {
   top: 0;
   width: 100%;
   display: flex;
@@ -25,6 +25,15 @@
   justify-content: space-between;
 }
  
+.navbar82-container11 {
+  flex: 0 0 auto;
+  width: 204px;
+  height: auto;
+  display: flex;
+  align-items: space-between;
+  flex-direction: column;
+}
+ 
 .navbar82-navlink1 {
   display: contents;
 }
@@ -35,10 +44,13 @@
   text-decoration: none;
 }
  
-.navbar82-desktop-menu {
-  flex: 1;
+.navbar82-container12 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
   display: flex;
-  justify-content: space-between;
+  align-items: space-between;
+  flex-direction: column;
 }
  
 .navbar82-links1 {
@@ -72,7 +84,7 @@
   justify-content: flex-end;
 }
  
-.navbar82-container2 {
+.navbar82-container13 {
   display: flex;
   align-items: center;
   animation-name: rotateInDownLeft;
@@ -90,7 +102,7 @@
   height: 24px;
 }
  
-.navbar82-container3 {
+.navbar82-container14 {
   display: flex;
   align-items: center;
   animation-name: rotateInDownRight;
@@ -106,6 +118,21 @@
 .navbar82-icon12 {
   width: 24px;
   height: 24px;
+}
+ 
+.navbar82-container15 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: space-between;
+  flex-direction: column;
+}
+ 
+.navbar82-desktop-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
 }
  
 .navbar82-buttons1 {
@@ -219,7 +246,7 @@
   justify-content: flex-end;
 }
  
-.navbar82-container4 {
+.navbar82-container16 {
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -231,7 +258,7 @@
   height: 24px;
 }
  
-.navbar82-container5 {
+.navbar82-container17 {
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -243,7 +270,7 @@
   height: 24px;
 }
  
-.navbar82-container6 {
+.navbar82-container18 {
   width: 100%;
   display: grid;
   grid-gap: var(--dl-space-space-halfunit);
@@ -395,7 +422,7 @@
   display: flex;
 }
  
-.navbar82-container7 {
+.navbar82-container19 {
   top: 100%;
   left: 0px;
   width: 100%;
@@ -465,7 +492,7 @@
   width: 30px;
   height: 30px;
   background-size: cover;
-  background-image: url("public/img_0647-1400w.png");
+  background-image: url("https://play.teleporthq.io/static/svg/placeholders/no-image.svg");
 }
  
 .navbar82-content6 {
@@ -539,7 +566,7 @@
   font-weight: 600;
 }
  
-.navbar82-container8 {
+.navbar82-container20 {
   top: 0px;
   width: 100%;
   height: 100%;
@@ -654,11 +681,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .navbar82-desktop-menu {
-    display: none;
-  }
   .navbar82-burger-menu {
-    display: flex;
     align-items: center;
     justify-content: center;
   }
@@ -666,7 +689,7 @@
     padding-top: var(--dl-space-space-oneandhalfunits);
     padding-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .navbar82-container6 {
+  .navbar82-container18 {
     grid-gap: 0;
   }
   .navbar82-link5-menu-list {
@@ -677,6 +700,13 @@
 @media(max-width: 479px) {
   .navbar82-navbar-interactive {
     padding: var(--dl-space-space-unit);
+    padding-right: 16px;
+  }
+  .navbar82-desktop-menu {
+    display: none;
+  }
+  .navbar82-burger-menu {
+    display: flex;
   }
   .navbar82-mobile-menu {
     padding: var(--dl-space-space-unit);
@@ -801,8 +831,4 @@
  
 .navbar81-text23 {
   display: inline-block;
-}
- 
-.navbar81root-class-name {
-  background-color: var(--dl-color-theme-neutral-light);
 }

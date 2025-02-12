@@ -100,6 +100,7 @@
  
 .hero16-text3 {
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .hero16-fragment2 {
@@ -148,7 +149,10 @@
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
   .hero16-text1 {
+    width: 383px;
+    height: 277px;
     text-align: center;
+    padding-left: 0px;
   }
   .hero16-text2 {
     text-align: center;
