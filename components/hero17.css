@@ -26,18 +26,20 @@
 }
  
 .hero17-text11 {
-  width: 1087px;
+  width: 914px;
   text-align: center;
 }
  
-.hero17-actions {
-  gap: var(--dl-space-space-unit);
+.hero17-container1 {
+  flex: 0 0 auto;
+  width: 200px;
+  height: 100px;
   display: flex;
   align-items: flex-start;
-  padding-top: var(--dl-space-space-unit);
   border-color: #787878;
-  border-style: dashed;
+  border-style: hidden;
   border-width: 2px;
+  flex-direction: column;
 }
  
 .hero17-button {
@@ -91,7 +93,7 @@
   border-width: 4px;
 }
  
-.hero17-container2 {
+.hero17-container3 {
   display: contents;
 }
  
@@ -152,14 +154,12 @@
     height: 132px;
   }
   .hero17-text11 {
-    width: 479px;
-    height: 182px;
+    width: 451px;
+    height: 100%;
   }
-  .hero17-actions {
-    width: 465px;
-    height: 76px;
-    border-color: rgba(251, 249, 239, 0);
-    flex-direction: column;
+  .hero17-container1 {
+    height: 68px;
+    border-color: #787878;
   }
   .hero17-button {
     width: 100%;
