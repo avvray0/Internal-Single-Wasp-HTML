@@ -521,8 +521,8 @@
  
 @media(max-width: 991px) {
   .navbar8-image1 {
-    width: 153px;
-    height: 104px;
+    width: 228px;
+    height: 129px;
     background-size: cover;
     background-image: url("public/download%20(1)-1500h.png");
   }
@@ -549,7 +549,7 @@
  
 @media(max-width: 479px) {
   .navbar8-navbar-interactive {
-    height: 117px;
+    height: 129px;
     padding: var(--dl-space-space-unit);
     border-radius: var(--dl-radius-radius-radius4);
   }
@@ -1804,8 +1804,8 @@
 }
  
 .footer15-text1 {
-  fill: var(--dl-color-theme-primary1);
-  color: var(--dl-color-theme-primary1);
+  fill: var(--dl-color-theme-accent1);
+  color: var(--dl-color-theme-accent1);
   align-self: flex-start;
   text-align: center;
 }
@@ -1840,8 +1840,8 @@
 }
  
 .footer15-text2 {
-  fill: var(--dl-color-theme-primary1);
-  color: var(--dl-color-theme-primary1);
+  fill: var(--dl-color-theme-accent1);
+  color: var(--dl-color-theme-accent1);
   align-self: flex-start;
   text-align: center;
 }
@@ -2463,6 +2463,9 @@
 .services-text54 {
   width: 1039px;
   height: 175px;
+  overflow: scroll;
+  font-size: 20px;
+  font-family: "Magistral-Medium";
 }
  
 .services-fragment49 {
@@ -2531,6 +2534,9 @@
 .services-text62 {
   width: 1039px;
   height: 175px;
+  overflow: scroll;
+  font-size: 20px;
+  font-family: "Magistral-Medium";
 }
  
 .services-fragment56 {

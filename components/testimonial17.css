@@ -22,6 +22,11 @@
   justify-content: center;
 }
  
+.testimonial17-icon1 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+}
+ 
 .testimonial17-text11 {
   text-align: center;
 }
