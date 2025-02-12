@@ -153,6 +153,9 @@
 }
  
 @media(max-width: 479px) {
+  .hero17-column {
+    height: 400px;
+  }
   .hero17-text10 {
     width: 420px;
     height: 132px;

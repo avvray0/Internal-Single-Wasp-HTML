@@ -788,6 +788,9 @@
 }
  
 @media(max-width: 479px) {
+  .hero17-column {
+    height: 400px;
+  }
   .hero17-text10 {
     width: 420px;
     height: 132px;
@@ -2484,10 +2487,12 @@
  
 .home-container2 {
   width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
   height: 285px;
   display: flex;
   align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-light);
+  border-style: dashed;
+  border-width: 2px;
 }
  
 .home-fragment25 {
@@ -3027,6 +3032,10 @@
   }
   .home-text20 {
     font-family: Magistral-Medium;
+  }
+  .home-container2 {
+    height: 128px;
+    border-color: var(--dl-color-theme-neutral-light);
   }
   .home-text27 {
     font-family: Magistral-Medium;
