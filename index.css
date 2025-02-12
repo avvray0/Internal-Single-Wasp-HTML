@@ -36,9 +36,8 @@
 }
  
 .navbar8-container3 {
-  flex: 0 0 auto;
   width: auto;
-  height: 141px;
+  height: 201px;
   display: flex;
   align-items: space-between;
   flex-direction: column;
@@ -78,6 +77,10 @@
   width: 37px;
   height: 38px;
   object-fit: cover;
+}
+ 
+.navbar8-link2 {
+  text-decoration: none;
 }
  
 .navbar8-image3 {
