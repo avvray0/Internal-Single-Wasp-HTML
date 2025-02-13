@@ -534,7 +534,7 @@
  
 @media(max-width: 479px) {
   .navbar8-navbar-interactive {
-    height: 129px;
+    height: 144px;
     padding: var(--dl-space-space-unit);
     border-radius: var(--dl-radius-radius-radius4);
   }

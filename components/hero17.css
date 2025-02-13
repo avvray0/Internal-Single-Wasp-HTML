@@ -103,7 +103,6 @@
 }
  
 .hero17-text13 {
-  color: var(--dl-color-theme-primary1);
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -121,21 +120,22 @@
 }
  
 .hero17-text15 {
+  color: var(--dl-color-theme-primary1);
   display: inline-block;
   font-family: "Magistral-Medium";
-}
- 
-.hero17-text17 {
-  color: var(--dl-color-theme-neutral-dark);
 }
  
 .hero17-fragment4 {
   display: contents;
 }
  
-.hero17-text19 {
+.hero17-text16 {
   display: inline-block;
   font-family: "Magistral-Medium";
+}
+ 
+.hero17-text18 {
+  color: var(--dl-color-theme-neutral-dark);
 }
  
 .hero17root-class-name {
@@ -170,10 +170,10 @@
     width: 292px;
     height: 36px;
   }
-  .hero17-text15 {
+  .hero17-text16 {
     font-family: Magistral-Medium;
   }
-  .hero17-text17 {
+  .hero17-text18 {
     color: var(--dl-color-theme-neutral-dark);
   }
 }
