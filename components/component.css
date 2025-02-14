@@ -1,0 +1,257 @@
+.component-container1 {
+  width: 917px;
+  height: 663px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.component-form {
+  width: 269px;
+  height: 580px;
+}
+ 
+.component-text10 {
+  font-size: 20px;
+  font-family: "Magistral-Medium";
+  line-height: 2;
+}
+ 
+.component-textinput1 {
+  width: 100%;
+  height: 35px;
+  border-color: var(--dl-color-theme-primary1);
+  border-width: 2px;
+  background-color: var(--dl-color-theme-accent1);
+}
+ 
+.component-text11 {
+  font-size: 20px;
+  font-family: "Magistral-Medium";
+  line-height: 2;
+}
+ 
+.component-textinput2 {
+  border-color: var(--dl-color-theme-primary1);
+  border-width: 2px;
+}
+ 
+.component-text12 {
+  font-size: 20px;
+  font-family: "Magistral-Medium";
+  line-height: 2;
+}
+ 
+.component-textinput3 {
+  border-color: var(--dl-color-theme-primary1);
+  border-width: 2px;
+}
+ 
+.component-text13 {
+  font-size: 20px;
+  font-family: "Magistral-Medium";
+  line-height: 1.2;
+}
+ 
+.component-text14 {
+  font-family: "Magistral-Medium";
+  line-height: 1.5;
+}
+ 
+.component-text15 {
+  font-family: "Magistral-Medium";
+  line-height: 1.5;
+}
+ 
+.component-text16 {
+  font-family: "Magistral-Medium";
+  line-height: 1.5;
+}
+ 
+.component-text17 {
+  font-size: 20px;
+  font-family: "Magistral-Medium";
+  line-height: 3;
+}
+ 
+.component-textarea {
+  border-color: var(--dl-color-theme-primary1);
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-buttonradius);
+}
+ 
+.component-button {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-family: "Magistral-Medium";
+  border-color: var(--dl-color-theme-primary2);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-buttonradius);
+  background-color: var(--dl-color-theme-primary1);
+}
+ 
+.component-fragment1 {
+  display: contents;
+}
+ 
+.component-text19 {
+  display: inline-block;
+}
+ 
+.component-fragment2 {
+  display: contents;
+}
+ 
+.component-text20 {
+  display: inline-block;
+}
+ 
+.component-fragment3 {
+  display: contents;
+}
+ 
+.component-text21 {
+  display: inline-block;
+}
+ 
+.component-fragment4 {
+  display: contents;
+}
+ 
+.component-text22 {
+  display: inline-block;
+}
+ 
+.component-fragment5 {
+  display: contents;
+}
+ 
+.component-text23 {
+  display: inline-block;
+}
+ 
+.component-fragment6 {
+  display: contents;
+}
+ 
+.component-text24 {
+  display: inline-block;
+}
+ 
+.component-fragment7 {
+  display: contents;
+}
+ 
+.component-text25 {
+  display: inline-block;
+}
+ 
+.component-fragment8 {
+  display: contents;
+}
+ 
+.component-text26 {
+  display: inline-block;
+}
+ 
+.component-fragment9 {
+  display: contents;
+}
+ 
+.component-text27 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .component-container1 {
+    width: 100%;
+  }
+  .component-form {
+    width: 439px;
+  }
+  .component-text10 {
+    font-size: 20px;
+    font-family: Magistral-Medium;
+  }
+  .component-textinput1 {
+    width: 407px;
+    height: 48px;
+    background-color: var(--dl-color-theme-neutral-light);
+  }
+  .component-text11 {
+    font-size: 20px;
+    font-family: Magistral-Medium;
+  }
+  .component-text12 {
+    font-size: 20px;
+    font-family: Magistral-Medium;
+  }
+  .component-text13 {
+    font-size: 20px;
+    font-family: Magistral-Medium;
+  }
+  .component-text14 {
+    font-size: 20px;
+    font-family: Magistral-Medium;
+  }
+  .component-text15 {
+    font-size: 20px;
+    font-family: Magistral-Medium;
+  }
+  .component-text16 {
+    font-size: 20px;
+    font-family: Magistral-Medium;
+  }
+  .component-text17 {
+    font-size: 20px;
+    font-family: Magistral-Medium;
+  }
+  .component-button {
+    fill: var(--dl-color-theme-primary2);
+    color: var(--dl-color-theme-primary2);
+    font-family: Magistral-Medium;
+    border-color: var(--dl-color-theme-primary2);
+    border-width: 3px;
+    border-radius: var(--dl-radius-radius-buttonradius);
+    background-color: var(--dl-color-theme-primary1);
+  }
+}
+ 
+@media(max-width: 767px) {
+  .component-container1 {
+    width: 100%;
+  }
+  .component-form {
+    width: 442px;
+    height: 590px;
+  }
+  .component-textinput1 {
+    background-color: var(--dl-color-theme-neutral-light);
+  }
+}
+ 
+@media(max-width: 479px) {
+  .component-container1 {
+    width: 100%;
+    height: 525px;
+    margin-bottom: 0px;
+    background-image: linear-gradient(180deg, rgb(251, 249, 239) 41.00%,rgb(232, 187, 4) 100.00%);
+  }
+  .component-form {
+    width: 415px;
+    height: 502px;
+  }
+  .component-textinput1 {
+    background-color: #fbf9ef;
+  }
+  .component-text13 {
+    line-height: 2;
+  }
+  .component-textarea {
+    width: 100%;
+  }
+  .component-button {
+    display: flex;
+  }
+}
