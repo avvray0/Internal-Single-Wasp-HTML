@@ -70,10 +70,15 @@
   flex-shrink: 0;
 }
  
+.footer15-navlink {
+  display: contents;
+}
+ 
 .footer15-image1 {
   width: 285px;
   height: 178px;
   align-self: center;
+  text-decoration: none;
 }
  
 .footer15-content2 {

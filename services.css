@@ -209,6 +209,10 @@
   text-decoration: none;
 }
  
+.navbar8-navlink3 {
+  display: contents;
+}
+ 
 .navbar8-menu-item1 {
   gap: var(--dl-space-space-unit);
   width: 100%;
@@ -235,6 +239,10 @@
 .navbar8-page31 {
   font-style: normal;
   font-weight: 600;
+}
+ 
+.navbar8-navlink4 {
+  display: contents;
 }
  
 .navbar8-menu-item2 {
@@ -265,6 +273,10 @@
   font-weight: 600;
 }
  
+.navbar8-navlink5 {
+  display: contents;
+}
+ 
 .navbar8-menu-item3 {
   gap: var(--dl-space-space-unit);
   width: 100%;
@@ -291,6 +303,10 @@
 .navbar8-page33 {
   font-style: normal;
   font-weight: 600;
+}
+ 
+.navbar8-navlink6 {
+  display: contents;
 }
  
 .navbar8-menu-item4 {
@@ -1081,7 +1097,7 @@
   }
 }
 
-.features65-wrapper-nffj {
+.features65-wrapper-sf18 {
   display: contents;
 }
  
@@ -1467,10 +1483,15 @@
   flex-shrink: 0;
 }
  
+.footer15-navlink {
+  display: contents;
+}
+ 
 .footer15-image1 {
   width: 285px;
   height: 178px;
   align-self: center;
+  text-decoration: none;
 }
  
 .footer15-content2 {
@@ -2035,7 +2056,7 @@
 }
  
 .services-text38 {
-  overflow: scroll;
+  overflow: visible;
   font-size: 20px;
   text-align: center;
   font-family: "Magistral-Medium";
@@ -2096,7 +2117,7 @@
 }
  
 .services-text45 {
-  overflow: scroll;
+  overflow: visible;
   font-size: 20px;
   text-align: center;
   font-family: "Magistral-Medium";
@@ -2166,7 +2187,7 @@
 }
  
 .services-text53 {
-  overflow: scroll;
+  overflow: visible;
   font-size: 20px;
   text-align: center;
   font-family: "Magistral-Medium";
@@ -2236,7 +2257,7 @@
 }
  
 .services-text61 {
-  overflow: scroll;
+  overflow: visible;
   font-size: 20px;
   text-align: center;
   font-family: "Magistral-Medium";
@@ -2312,24 +2333,26 @@
     font-family: Magistral-Medium;
   }
   .services-text38 {
+    overflow: visible;
     font-size: 20px;
     align-self: center;
     text-align: left;
   }
   .services-text45 {
-    overflow: scroll;
+    overflow: visible;
     font-size: 20px;
     text-align: left;
     font-family: Magistral-Medium;
   }
   .services-text53 {
+    overflow: visible;
     font-size: 20px;
     text-align: left;
     font-family: Magistral-Medium;
     text-transform: capitalize;
   }
   .services-text61 {
-    overflow: auto;
+    overflow: visible;
     font-size: 20px;
     text-align: left;
     font-family: Magistral-Medium;

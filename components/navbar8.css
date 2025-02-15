@@ -205,6 +205,10 @@
   text-decoration: none;
 }
  
+.navbar8-navlink3 {
+  display: contents;
+}
+ 
 .navbar8-menu-item1 {
   gap: var(--dl-space-space-unit);
   width: 100%;
@@ -231,6 +235,10 @@
 .navbar8-page31 {
   font-style: normal;
   font-weight: 600;
+}
+ 
+.navbar8-navlink4 {
+  display: contents;
 }
  
 .navbar8-menu-item2 {
@@ -261,6 +269,10 @@
   font-weight: 600;
 }
  
+.navbar8-navlink5 {
+  display: contents;
+}
+ 
 .navbar8-menu-item3 {
   gap: var(--dl-space-space-unit);
   width: 100%;
@@ -287,6 +299,10 @@
 .navbar8-page33 {
   font-style: normal;
   font-weight: 600;
+}
+ 
+.navbar8-navlink6 {
+  display: contents;
 }
  
 .navbar8-menu-item4 {
