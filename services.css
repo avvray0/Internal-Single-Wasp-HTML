@@ -1097,7 +1097,7 @@
   }
 }
 
-.features65-wrapper-3knu {
+.features65-wrapper-5k5c {
   display: contents;
 }
  
@@ -1972,6 +1972,7 @@
 }
  
 .services-text29 {
+  font-size: 1.6em;
   align-self: center;
   text-align: center;
   font-family: "Magistral-Medium";
@@ -2334,6 +2335,9 @@
   }
   .services-text29 {
     font-family: Magistral-Medium;
+  }
+  .services-container2 {
+    width: 479px;
   }
   .services-text38 {
     overflow: visible;
