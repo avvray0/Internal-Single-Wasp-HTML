@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Internal Single Wasp</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;  -webkit-font-smoothing: antialiased;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;  color: inherit;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}details {  display: block;  margin: 0;  padding: 0;}summary::-webkit-details-marker {  display: none;}[data-thq="accordion"] [data-thq="accordion-content"] {  max-height: 0;  overflow: hidden;  transition: max-height 0.3s ease-in-out;  padding: 0;}[data-thq="accordion"] details[data-thq="accordion-trigger"][open] + [data-thq="accordion-content"] {  max-height: 1000vh;}details[data-thq="accordion-trigger"][open] summary [data-thq="accordion-icon"] {  transform: rotate(180deg);}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-theme-neutral-dark);
+        background: var(--dl-color-theme-neutral-light);
+
+        fill: var(--dl-color-theme-neutral-dark);
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/animate.css@4.1.1/animate.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
+    />
+  </head>
+  <body>
+    <link rel="stylesheet" href="../style.css" />
+    <div>
+      <link href="./navbar8.css" rel="stylesheet" />
+      <header class="navbar8-container1 navbar8">
+        <header data-thq="thq-navbar" class="navbar8-navbar-interactive">
+          <div class="navbar8-container2">
+            <a href="index.html" class="navbar8-navlink1">
+              <img
+                alt="Vega Lawn Care Logo"
+                src="public/download%20(1)-1500h.png"
+                class="navbar8-image1"
+              />
+            </a>
+            <div data-thq="thq-navbar-nav" class="navbar8-desktop-menu">
+              <nav class="navbar8-links1">
+                <a
+                  href="index.html"
+                  class="navbar8-link11 thq-link thq-body-small"
+                >
+                  <fragment class="navbar8-fragment15">
+                    <span class="navbar8-text18">
+                      HOME&nbsp; &nbsp; &nbsp;&nbsp;
+                    </span>
+                  </fragment>
+                </a>
+                <img
+                  alt="image"
+                  src="public/pngtree-cartoon-drawing-of-lawn-mower-vector-png-image_12231922-200h.png"
+                  class="navbar8-image2"
+                />
+                <a
+                  href="services.html"
+                  class="navbar8-link2 thq-link thq-body-small"
+                >
+                  <fragment class="navbar8-fragment13">
+                    <span class="navbar8-text16">LAWN CARE</span>
+                  </fragment>
+                </a>
+                <img
+                  alt="image"
+                  src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+                  class="navbar8-image3"
+                />
+                <a
+                  href="services.html"
+                  class="navbar8-link31 thq-link thq-body-small"
+                >
+                  <fragment class="navbar8-fragment10">
+                    <span class="navbar8-text13">LANDSCAPING</span>
+                  </fragment>
+                </a>
+                <img
+                  alt="image"
+                  src="public/img_0650-200h.png"
+                  class="navbar8-image4"
+                />
+                <a
+                  href="services.html"
+                  class="navbar8-link32 thq-link thq-body-small"
+                >
+                  <fragment class="navbar8-fragment22">
+                    <span class="navbar8-text25">PROPERTY CLEANUP</span>
+                  </fragment>
+                </a>
+                <img
+                  alt="image"
+                  src="public/img_0651-200h.png"
+                  class="navbar8-image5"
+                />
+                <a
+                  href="services.html"
+                  class="navbar8-link33 thq-link thq-body-small"
+                >
+                  <fragment class="navbar8-fragment23">
+                    <span class="navbar8-text26">
+                      LAWN TREATMENTS&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+                    </span>
+                  </fragment>
+                </a>
+              </nav>
+              <div class="navbar8-buttons1">
+                <a
+                  href="services.html"
+                  class="navbar8-action11 thq-button-animated thq-button-filled"
+                >
+                  <span>
+                    <fragment class="navbar8-fragment17">
+                      <span class="navbar8-text20">Get Free Estimate</span>
+                    </fragment>
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div data-thq="thq-burger-menu" class="navbar8-burger-menu">
+            <svg viewBox="0 0 1024 1024" class="navbar8-icon1">
+              <path
+                d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"
+              ></path>
+            </svg>
+          </div>
+          <div data-thq="thq-mobile-menu" class="navbar8-mobile-menu">
+            <div class="navbar8-container3">
+              <div class="navbar8-nav">
+                <div class="navbar8-top">
+                  <a href="index.html" class="navbar8-navlink2">
+                    <img
+                      alt="Vega Lawn Care Logo"
+                      src="public/download%20(1)-1500h.png"
+                      class="navbar8-logo"
+                    />
+                  </a>
+                  <div data-thq="thq-close-menu" class="navbar8-close-menu">
+                    <svg viewBox="0 0 1024 1024" class="navbar8-icon3">
+                      <path
+                        d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
+                      ></path>
+                    </svg>
+                  </div>
+                </div>
+                <div class="navbar8-container4">
+                  <nav class="navbar8-links2">
+                    <a
+                      href="index.html"
+                      class="navbar8-link12 thq-link thq-body-small"
+                    >
+                      <fragment class="navbar8-fragment15">
+                        <span class="navbar8-text18">
+                          HOME&nbsp; &nbsp; &nbsp;&nbsp;
+                        </span>
+                      </fragment>
+                    </a>
+                    <div class="navbar8-menu-item1">
+                      <img
+                        alt="Image of team at Vega Lawn Care"
+                        src="public/pngtree-cartoon-drawing-of-lawn-mower-vector-png-image_12231922-200h.png"
+                        class="navbar8-page3-image1 thq-img-ratio-1-1"
+                      />
+                      <div class="navbar8-content1">
+                        <span class="navbar8-page31 thq-body-large">
+                          <fragment class="navbar8-fragment24">
+                            <span class="navbar8-text27">LAWN CARE</span>
+                          </fragment>
+                        </span>
+                        <span class="thq-body-small">
+                          <fragment class="navbar8-fragment19">
+                            <span class="navbar8-text22">Learn more</span>
+                          </fragment>
+                        </span>
+                      </div>
+                    </div>
+                    <div class="navbar8-menu-item2">
+                      <img
+                        alt="Image of team at Vega Lawn Care"
+                        src="public/soil-yard-irrigation-icon-cartoon-sprinkler-system-vector1-200h.png"
+                        class="navbar8-page3-image2 thq-img-ratio-1-1"
+                      />
+                      <div class="navbar8-content2">
+                        <span class="navbar8-page32 thq-body-large">
+                          <fragment class="navbar8-fragment14">
+                            <span class="navbar8-text17">LANDSCAPING</span>
+                          </fragment>
+                        </span>
+                        <span class="thq-body-small">
+                          <fragment class="navbar8-fragment18">
+                            <span class="navbar8-text21">Learn more</span>
+                          </fragment>
+                        </span>
+                      </div>
+                    </div>
+                    <div class="navbar8-menu-item3">
+                      <img
+                        alt="Image of team at Vega Lawn Care"
+                        src="public/img_0650-200h.png"
+                        class="navbar8-page3-image3 thq-img-ratio-1-1"
+                      />
+                      <div class="navbar8-content3">
+                        <span class="navbar8-page33 thq-body-large">
+                          <fragment class="navbar8-fragment21">
+                            <span class="navbar8-text24">PROPERTY CLEANUP</span>
+                          </fragment>
+                        </span>
+                        <span class="thq-body-small">
+                          <fragment class="navbar8-fragment20">
+                            <span class="navbar8-text23">Learn more</span>
+                          </fragment>
+                        </span>
+                      </div>
+                    </div>
+                    <div class="navbar8-menu-item4">
+                      <img
+                        alt="Image of team at Vega Lawn Care"
+                        src="public/img_0651-200h.png"
+                        class="navbar8-page3-image4 thq-img-ratio-1-1"
+                      />
+                      <div class="navbar8-content4">
+                        <span class="navbar8-page34 thq-body-large">
+                          <fragment class="navbar8-fragment11">
+                            <span class="navbar8-text14">LAWN TREATMENTS</span>
+                          </fragment>
+                        </span>
+                        <span class="thq-body-small">
+                          <fragment class="navbar8-fragment16">
+                            <span class="navbar8-text19">Learn more</span>
+                          </fragment>
+                        </span>
+                      </div>
+                    </div>
+                  </nav>
+                </div>
+                <div class="navbar8-buttons2">
+                  <button class="navbar8-action12 thq-button-filled">
+                    <span>
+                      <fragment class="navbar8-fragment17">
+                        <span class="navbar8-text20">Get Free Estimate</span>
+                      </fragment>
+                    </span>
+                  </button>
+                  <a
+                    href="tel:+17066185860"
+                    class="navbar8-action2 thq-button-outline"
+                  >
+                    <span>
+                      <fragment class="navbar8-fragment12">
+                        <span class="navbar8-text15">Schedule Service</span>
+                      </fragment>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="navbar8-icon-group">
+              <a
+                href="https://instagram.com"
+                target="_blank"
+                rel="noreferrer noopener"
+                class="navbar8-link4"
+              >
+                <svg
+                  viewBox="0 0 877.7142857142857 1024"
+                  class="navbar8-icon5 thq-icon-x-small"
+                >
+                  <path
+                    d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"
+                  ></path>
+                </svg>
+              </a>
+              <a
+                href="https://facebook.com"
+                target="_blank"
+                rel="noreferrer noopener"
+                class="navbar8-link5"
+              >
+                <svg
+                  viewBox="0 0 602.2582857142856 1024"
+                  class="navbar8-icon7 thq-icon-small"
+                >
+                  <path
+                    d="M548 6.857v150.857h-89.714c-70.286 0-83.429 33.714-83.429 82.286v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571c0-144.571 88.571-223.429 217.714-223.429 61.714 0 114.857 4.571 130.286 6.857z"
+                  ></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </header>
+      </header>
+    </div>
+    <script
+      defer=""
+      src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
+    ></script>
+  </body>
+</html>

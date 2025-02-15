@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Internal Single Wasp</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;  -webkit-font-smoothing: antialiased;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;  color: inherit;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}details {  display: block;  margin: 0;  padding: 0;}summary::-webkit-details-marker {  display: none;}[data-thq="accordion"] [data-thq="accordion-content"] {  max-height: 0;  overflow: hidden;  transition: max-height 0.3s ease-in-out;  padding: 0;}[data-thq="accordion"] details[data-thq="accordion-trigger"][open] + [data-thq="accordion-content"] {  max-height: 1000vh;}details[data-thq="accordion-trigger"][open] summary [data-thq="accordion-icon"] {  transform: rotate(180deg);}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-theme-neutral-dark);
+        background: var(--dl-color-theme-neutral-light);
+
+        fill: var(--dl-color-theme-neutral-dark);
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/animate.css@4.1.1/animate.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
+    />
+  </head>
+  <body>
+    <link rel="stylesheet" href="../style.css" />
+    <div>
+      <link href="./component.css" rel="stylesheet" />
+      <div class="component-container component">
+        <form
+          action="https://formsubmit.co/vegalawncare@outlook.com"
+          method="post"
+          enctype="multipart/form-data"
+          class="component-form"
+        >
+          <label for="full_name" class="component-text10">
+            <fragment class="component-fragment6">
+              <span class="component-text22">Full Name:</span>
+            </fragment>
+          </label>
+          <input
+            type="text"
+            id="full_name"
+            name="full_name"
+            required="true"
+            class="component-textinput1 input"
+          />
+          <br />
+          <br />
+          <label for="address" class="component-text11">
+            <fragment class="component-fragment3">
+              <span class="component-text19">Address:</span>
+            </fragment>
+          </label>
+          <input
+            type="text"
+            id="address"
+            name="address"
+            required="true"
+            class="component-textinput2 input"
+          />
+          <br />
+          <br />
+          <label for="email">
+            <fragment class="component-fragment2">
+              <span class="component-text18">Email:</span>
+            </fragment>
+          </label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            class="component-textinput3 input"
+          />
+          <br />
+          <br />
+          <label for="phone" class="component-text13">
+            <fragment class="component-fragment1">
+              <span class="component-text17">Phone Number:</span>
+            </fragment>
+          </label>
+          <input
+            type="tel"
+            id="phone"
+            name="phone"
+            required="true"
+            class="component-textinput4 input"
+          />
+          <br />
+          <br />
+          <label for="communication" class="component-text14">
+            <fragment class="component-fragment5">
+              <span class="component-text21">
+                Preferred Means of Communication:
+              </span>
+            </fragment>
+          </label>
+          <select id="communication" name="communication" required="">
+            <option value="text">Text Message</option>
+            <option value="email">Email</option>
+            <option value="phone">Phone Call</option>
+          </select>
+          <br />
+          <br />
+          <label for="service" class="component-text15">
+            <fragment class="component-fragment4">
+              <span class="component-text20">Service:</span>
+            </fragment>
+          </label>
+          <select id="service" name="service" required="true">
+            <option value="mowing">Lawn Mowing &amp; Edging</option>
+            <option value="cleanup">Debris Cleanup</option>
+            <option value="Weed_Control">Weed Control</option>
+            <option value="Leaf_Removal">Leaf Removal</option>
+            <option value="Fertilizing">Fertilizing</option>
+            <option value="Irrigation">Sprinklers Insllation</option>
+          </select>
+          <br />
+          <br />
+          <label for="video" class="component-text16">
+            <fragment class="component-fragment7">
+              <span class="component-text23">Optional Video Submission:</span>
+            </fragment>
+          </label>
+          <input
+            type="file"
+            id="video"
+            name="video"
+            accept="video/*"
+            class="component-textinput5 input"
+          />
+          <br />
+          <br />
+          <input
+            type="submit"
+            value="Submit Request"
+            class="component-textinput6 input"
+          />
+        </form>
+      </div>
+    </div>
+    <script
+      defer=""
+      src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
+    ></script>
+  </body>
+</html>

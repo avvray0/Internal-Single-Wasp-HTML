@@ -1,0 +1,143 @@
+.features65-layout216 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.features65-max-width {
+  gap: var(--dl-space-space-threeunits);
+}
+ 
+.features65-image1 {
+  width: 736px;
+}
+ 
+.features65-content {
+  width: 622px;
+}
+ 
+.features65-section-title {
+  align-items: flex-start;
+}
+ 
+.features65-list {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.features65-list-item1 {
+  align-items: flex-start;
+}
+ 
+.features65-list-item2 {
+  align-items: flex-start;
+}
+ 
+.features65-actions {
+  align-self: flex-start;
+}
+ 
+.features65-button1 {
+  text-decoration: none;
+}
+ 
+.features65-button2 {
+  text-decoration: none;
+}
+ 
+.features65-fragment1 {
+  display: contents;
+}
+ 
+.features65-text15 {
+  display: inline-block;
+}
+ 
+.features65-fragment2 {
+  display: contents;
+}
+ 
+.features65-text16 {
+  display: inline-block;
+}
+ 
+.features65-fragment3 {
+  display: contents;
+}
+ 
+.features65-text17 {
+  display: inline-block;
+}
+ 
+.features65-fragment4 {
+  display: contents;
+}
+ 
+.features65-text18 {
+  display: inline-block;
+}
+ 
+.features65-fragment5 {
+  display: contents;
+}
+ 
+.features65-text19 {
+  display: inline-block;
+}
+ 
+.features65-fragment6 {
+  display: contents;
+}
+ 
+.features65-text20 {
+  display: inline-block;
+}
+ 
+.features65-fragment7 {
+  display: contents;
+}
+ 
+.features65-text21 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .features65-layout216 {
+    width: 100%;
+  }
+  .features65-max-width {
+    flex-direction: column;
+  }
+  .features65-image1 {
+    width: 100%;
+  }
+  .features65-content {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .features65-max-width {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .features65-list {
+    flex-direction: column;
+  }
+  .features65-actions {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: var(--dl-space-space-unit);
+  }
+  .features65-button1 {
+    width: 100%;
+  }
+  .features65-button2 {
+    width: 100%;
+  }
+}
