@@ -1097,7 +1097,7 @@
   }
 }
 
-.features65-wrapper-5k5c {
+.features65-wrapper-2p06 {
   display: contents;
 }
  
@@ -1749,6 +1749,10 @@
 }
  
 @media(max-width: 479px) {
+  .footer15-container1 {
+    width: 479px;
+    margin-right: 0px;
+  }
   .footer15-content1 {
     gap: var(--dl-space-space-twounits);
   }
@@ -1985,11 +1989,6 @@
 .services-text30 {
   font-family: "Magistral-Medium";
   line-height: 2;
-}
- 
-.services-container2 {
-  width: 269px;
-  border-radius: var(--dl-radius-radius-radius4);
 }
  
 .services-container3 {
@@ -2335,9 +2334,6 @@
   }
   .services-text29 {
     font-family: Magistral-Medium;
-  }
-  .services-container2 {
-    width: 479px;
   }
   .services-text38 {
     overflow: visible;

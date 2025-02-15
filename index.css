@@ -2295,6 +2295,10 @@
 }
  
 @media(max-width: 479px) {
+  .footer15-container1 {
+    width: 479px;
+    margin-right: 0px;
+  }
   .footer15-content1 {
     gap: var(--dl-space-space-twounits);
   }
