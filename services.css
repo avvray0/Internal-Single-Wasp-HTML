@@ -660,6 +660,8 @@
 }
  
 .hero171-button {
+  fill: var(--dl-color-theme-secondary1);
+  color: var(--dl-color-theme-secondary1);
   text-decoration: none;
 }
  
@@ -843,7 +845,7 @@
   display: contents;
 }
  
-.services-text29 {
+.services-text31 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -852,7 +854,7 @@
   display: contents;
 }
  
-.services-text34 {
+.services-text36 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -861,7 +863,7 @@
   display: contents;
 }
  
-.services-text35 {
+.services-text37 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -870,7 +872,7 @@
   display: contents;
 }
  
-.services-text32 {
+.services-text34 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -879,7 +881,7 @@
   display: contents;
 }
  
-.services-text33 {
+.services-text35 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -888,7 +890,7 @@
   display: contents;
 }
  
-.services-text30 {
+.services-text32 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -897,7 +899,7 @@
   display: contents;
 }
  
-.services-text31 {
+.services-text33 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -994,7 +996,7 @@
   display: contents;
 }
  
-.services-text42 {
+.services-text44 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1003,7 +1005,7 @@
   display: contents;
 }
  
-.services-text39 {
+.services-text41 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1012,7 +1014,7 @@
   display: contents;
 }
  
-.services-text38 {
+.services-text40 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1021,7 +1023,7 @@
   display: contents;
 }
  
-.services-text41 {
+.services-text43 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1030,7 +1032,7 @@
   display: contents;
 }
  
-.services-text37 {
+.services-text39 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1039,7 +1041,7 @@
   display: contents;
 }
  
-.services-text40 {
+.services-text42 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1079,7 +1081,7 @@
   }
 }
 
-.features65-wrapper-dxtd {
+.features65-wrapper-nffj {
   display: contents;
 }
  
@@ -1140,7 +1142,7 @@
   display: contents;
 }
  
-.services-text44 {
+.services-text46 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1149,7 +1151,7 @@
   display: contents;
 }
  
-.services-text49 {
+.services-text51 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1158,7 +1160,7 @@
   display: contents;
 }
  
-.services-text50 {
+.services-text52 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1167,7 +1169,7 @@
   display: contents;
 }
  
-.services-text47 {
+.services-text49 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1176,7 +1178,7 @@
   display: contents;
 }
  
-.services-text48 {
+.services-text50 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1185,7 +1187,7 @@
   display: contents;
 }
  
-.services-text45 {
+.services-text47 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1194,7 +1196,7 @@
   display: contents;
 }
  
-.services-text46 {
+.services-text48 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1295,7 +1297,7 @@
   display: contents;
 }
  
-.services-text56 {
+.services-text58 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1304,7 +1306,7 @@
   display: contents;
 }
  
-.services-text58 {
+.services-text60 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1313,7 +1315,7 @@
   display: contents;
 }
  
-.services-text57 {
+.services-text59 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1322,7 +1324,7 @@
   display: contents;
 }
  
-.services-text52 {
+.services-text54 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1331,7 +1333,7 @@
   display: contents;
 }
  
-.services-text53 {
+.services-text55 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1340,7 +1342,7 @@
   display: contents;
 }
  
-.services-text55 {
+.services-text57 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1349,7 +1351,7 @@
   display: contents;
 }
  
-.services-text54 {
+.services-text56 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1619,7 +1621,7 @@
   display: contents;
 }
  
-.services-text63 {
+.services-text65 {
   display: inline-block;
 }
  
@@ -1627,7 +1629,7 @@
   display: contents;
 }
  
-.services-text62 {
+.services-text64 {
   color: var(--dl-color-theme-accent1);
   display: inline-block;
 }
@@ -1636,7 +1638,7 @@
   display: contents;
 }
  
-.services-text60 {
+.services-text62 {
   display: inline-block;
 }
  
@@ -1644,7 +1646,7 @@
   display: contents;
 }
  
-.services-text64 {
+.services-text66 {
   display: inline-block;
 }
  
@@ -1652,7 +1654,7 @@
   display: contents;
 }
  
-.services-text61 {
+.services-text63 {
   display: inline-block;
 }
  
@@ -1948,6 +1950,23 @@
   display: inline-block;
 }
  
+.services-text29 {
+  font-family: "Magistral-Medium";
+  border-color: var(--dl-color-theme-primary1);
+  border-style: inset;
+  border-width: 4px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+ 
+.services-text30 {
+  font-family: "Magistral-Medium";
+  line-height: 2;
+}
+ 
+.services-container2 {
+  border-radius: var(--dl-radius-radius-radius4);
+}
+ 
 .services-container3 {
   display: contents;
 }
@@ -1956,7 +1975,7 @@
   display: contents;
 }
  
-.services-text29 {
+.services-text31 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1965,7 +1984,7 @@
   display: contents;
 }
  
-.services-text30 {
+.services-text32 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1974,7 +1993,7 @@
   display: contents;
 }
  
-.services-text31 {
+.services-text33 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1983,7 +2002,7 @@
   display: contents;
 }
  
-.services-text32 {
+.services-text34 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1992,7 +2011,7 @@
   display: contents;
 }
  
-.services-text33 {
+.services-text35 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2001,7 +2020,7 @@
   display: contents;
 }
  
-.services-text34 {
+.services-text36 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2010,12 +2029,12 @@
   display: contents;
 }
  
-.services-text35 {
+.services-text37 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
  
-.services-text36 {
+.services-text38 {
   overflow: scroll;
   font-size: 20px;
   text-align: center;
@@ -2026,7 +2045,7 @@
   display: contents;
 }
  
-.services-text37 {
+.services-text39 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2035,7 +2054,7 @@
   display: contents;
 }
  
-.services-text38 {
+.services-text40 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2044,7 +2063,7 @@
   display: contents;
 }
  
-.services-text39 {
+.services-text41 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2053,7 +2072,7 @@
   display: contents;
 }
  
-.services-text40 {
+.services-text42 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2062,7 +2081,7 @@
   display: contents;
 }
  
-.services-text41 {
+.services-text43 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2071,12 +2090,12 @@
   display: contents;
 }
  
-.services-text42 {
+.services-text44 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
  
-.services-text43 {
+.services-text45 {
   overflow: scroll;
   font-size: 20px;
   text-align: center;
@@ -2087,7 +2106,7 @@
   display: contents;
 }
  
-.services-text44 {
+.services-text46 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2096,7 +2115,7 @@
   display: contents;
 }
  
-.services-text45 {
+.services-text47 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2105,7 +2124,7 @@
   display: contents;
 }
  
-.services-text46 {
+.services-text48 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2114,7 +2133,7 @@
   display: contents;
 }
  
-.services-text47 {
+.services-text49 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2123,7 +2142,7 @@
   display: contents;
 }
  
-.services-text48 {
+.services-text50 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2132,7 +2151,7 @@
   display: contents;
 }
  
-.services-text49 {
+.services-text51 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2141,12 +2160,12 @@
   display: contents;
 }
  
-.services-text50 {
+.services-text52 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
  
-.services-text51 {
+.services-text53 {
   overflow: scroll;
   font-size: 20px;
   text-align: center;
@@ -2157,7 +2176,7 @@
   display: contents;
 }
  
-.services-text52 {
+.services-text54 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2166,7 +2185,7 @@
   display: contents;
 }
  
-.services-text53 {
+.services-text55 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2175,7 +2194,7 @@
   display: contents;
 }
  
-.services-text54 {
+.services-text56 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2184,7 +2203,7 @@
   display: contents;
 }
  
-.services-text55 {
+.services-text57 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2193,7 +2212,7 @@
   display: contents;
 }
  
-.services-text56 {
+.services-text58 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2202,7 +2221,7 @@
   display: contents;
 }
  
-.services-text57 {
+.services-text59 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -2211,12 +2230,12 @@
   display: contents;
 }
  
-.services-text58 {
+.services-text60 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
  
-.services-text59 {
+.services-text61 {
   overflow: scroll;
   font-size: 20px;
   text-align: center;
@@ -2227,7 +2246,7 @@
   display: contents;
 }
  
-.services-text60 {
+.services-text62 {
   display: inline-block;
 }
  
@@ -2235,7 +2254,7 @@
   display: contents;
 }
  
-.services-text61 {
+.services-text63 {
   display: inline-block;
 }
  
@@ -2243,7 +2262,7 @@
   display: contents;
 }
  
-.services-text62 {
+.services-text64 {
   color: var(--dl-color-theme-accent1);
   display: inline-block;
 }
@@ -2252,7 +2271,7 @@
   display: contents;
 }
  
-.services-text63 {
+.services-text65 {
   display: inline-block;
 }
  
@@ -2260,7 +2279,7 @@
   display: contents;
 }
  
-.services-text64 {
+.services-text66 {
   display: inline-block;
 }
  
@@ -2289,23 +2308,27 @@
   .services-text27 {
     font-family: Magistral-Medium;
   }
-  .services-text36 {
+  .services-text29 {
+    font-family: Magistral-Medium;
+  }
+  .services-text38 {
+    font-size: 20px;
     align-self: center;
     text-align: left;
   }
-  .services-text43 {
+  .services-text45 {
     overflow: scroll;
     font-size: 20px;
     text-align: left;
     font-family: Magistral-Medium;
   }
-  .services-text51 {
+  .services-text53 {
     font-size: 20px;
     text-align: left;
     font-family: Magistral-Medium;
     text-transform: capitalize;
   }
-  .services-text59 {
+  .services-text61 {
     overflow: auto;
     font-size: 20px;
     text-align: left;
