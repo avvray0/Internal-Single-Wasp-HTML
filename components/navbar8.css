@@ -551,14 +551,19 @@
     display: flex;
   }
   .navbar8-mobile-menu {
+    right: -6px;
+    bottom: 151px;
     padding: var(--dl-space-space-unit);
   }
   .navbar8-container3 {
+    width: 395px;
     flex-direction: column;
     justify-content: flex-start;
   }
   .navbar8-nav {
     width: 394px;
+    height: 503px;
+    margin-bottom: 0px;
   }
   .navbar8-logo {
     background-size: cover;
