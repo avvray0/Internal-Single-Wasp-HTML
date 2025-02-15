@@ -722,15 +722,6 @@
   display: contents;
 }
  
-.services-fragment26 {
-  display: contents;
-}
- 
-.services-text26 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
 .services-fragment28 {
   display: contents;
 }
@@ -754,6 +745,15 @@
 }
  
 .services-text27 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment26 {
+  display: contents;
+}
+ 
+.services-text26 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1097,7 +1097,7 @@
   }
 }
 
-.features65-wrapper-sf18 {
+.features65-wrapper-3knu {
   display: contents;
 }
  
@@ -1972,6 +1972,8 @@
 }
  
 .services-text29 {
+  align-self: center;
+  text-align: center;
   font-family: "Magistral-Medium";
   border-color: var(--dl-color-theme-primary1);
   border-style: inset;
@@ -1985,6 +1987,7 @@
 }
  
 .services-container2 {
+  width: 269px;
   border-radius: var(--dl-radius-radius-radius4);
 }
  

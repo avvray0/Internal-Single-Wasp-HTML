@@ -96,7 +96,6 @@
  
 .hero171-text4 {
   display: inline-block;
-  font-family: "Magistral-Medium";
 }
  
 .hero171-fragment2 {
@@ -104,7 +103,9 @@
 }
  
 .hero171-text5 {
+  color: var(--dl-color-theme-primary1);
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .hero171-fragment3 {
@@ -112,7 +113,6 @@
 }
  
 .hero171-text6 {
-  color: var(--dl-color-theme-primary1);
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -163,7 +163,7 @@
     width: 292px;
     height: 36px;
   }
-  .hero171-text7 {
+  .hero171-text6 {
     font-family: Magistral-Medium;
   }
 }
