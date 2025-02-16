@@ -350,6 +350,7 @@
 }
  
 .navbar8-action2 {
+  display: none;
   text-decoration: none;
 }
  
@@ -480,13 +481,13 @@
   display: inline-block;
 }
  
-.navbar8root-class-name {
+.navbar8root-class-name3 {
   top: 0px;
   left: 0px;
   position: sticky;
 }
  
-.navbar8root-class-name3 {
+.navbar8root-class-name {
   top: 0px;
   left: 0px;
   position: sticky;
@@ -588,10 +589,6 @@
     height: var(--dl-size-size-small);
   }
   .navbar8-action2 {
-    fill: var(--dl-color-theme-neutral-light);
-    color: var(--dl-color-theme-neutral-light);
-    width: 114px;
-    height: 33px;
     display: none;
     border-style: solid;
   }
