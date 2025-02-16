@@ -1093,7 +1093,7 @@
   }
 }
 
-.features65-wrapper-py7b {
+.features65-wrapper-oxig {
   display: contents;
 }
  
@@ -2276,13 +2276,6 @@
   font-family: "Magistral-Medium";
 }
  
-.services-container6 {
-  flex: 0 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
- 
 .services-fragment56 {
   display: contents;
 }
@@ -2383,14 +2376,5 @@
     font-size: 20px;
     text-align: left;
     font-family: Magistral-Medium;
-  }
-  .services-button {
-    fill: var(--dl-color-theme-primary2);
-    color: var(--dl-color-theme-primary2);
-    font-size: 30px;
-    font-family: Magistral-Medium;
-    border-color: var(--dl-color-theme-secondary1);
-    border-radius: var(--dl-radius-radius-buttonradius);
-    background-color: var(--dl-color-theme-primary1);
   }
 }
