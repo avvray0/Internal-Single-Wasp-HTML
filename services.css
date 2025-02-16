@@ -147,7 +147,7 @@
  
 .navbar8-container3 {
   flex: 0 0 auto;
-  width: auto;
+  width: 441px;
   height: auto;
   display: flex;
   align-items: flex-start;
@@ -546,12 +546,12 @@
     padding: var(--dl-space-space-unit);
   }
   .navbar8-container3 {
-    width: 363px;
+    width: 306px;
     flex-direction: column;
     justify-content: flex-start;
   }
   .navbar8-nav {
-    width: 394px;
+    width: 322px;
     height: 503px;
     margin-bottom: 0px;
   }
@@ -1081,7 +1081,7 @@
   }
 }
 
-.features65-wrapper-42g7 {
+.features65-wrapper-6xcl {
   display: contents;
 }
  
