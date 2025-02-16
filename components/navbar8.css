@@ -577,7 +577,10 @@
     height: var(--dl-size-size-small);
   }
   .navbar8-action2 {
-    display: none;
+    fill: var(--dl-color-theme-primary1);
+    color: var(--dl-color-theme-primary1);
+    width: 114px;
+    height: 33px;
     border-style: solid;
   }
   .navbar8-text13 {
