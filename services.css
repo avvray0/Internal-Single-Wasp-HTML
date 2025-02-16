@@ -587,6 +587,10 @@
     width: var(--dl-size-size-small);
     height: var(--dl-size-size-small);
   }
+  .navbar8-action2 {
+    display: none;
+    border-style: solid;
+  }
   .services-text12 {
     font-family: Magistral-Medium;
   }
@@ -1081,7 +1085,7 @@
   }
 }
 
-.features65-wrapper-13iq {
+.features65-wrapper-ehir {
   display: contents;
 }
  
