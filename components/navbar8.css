@@ -577,6 +577,13 @@
     width: var(--dl-size-size-small);
     height: var(--dl-size-size-small);
   }
+  .navbar8-page34 {
+    font-family: Magistral-Medium;
+  }
+  .navbar8-description34 {
+    fill: var(--dl-color-theme-neutral-dark);
+    color: var(--dl-color-theme-neutral-dark);
+  }
   .navbar8-action2 {
     display: flex;
     border-style: solid;
