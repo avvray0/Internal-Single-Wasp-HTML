@@ -349,11 +349,6 @@
   text-decoration: none;
 }
  
-.navbar8-action2 {
-  display: none;
-  text-decoration: none;
-}
- 
 .services-fragment12 {
   display: contents;
 }
@@ -363,21 +358,12 @@
   font-family: "Magistral-Medium";
 }
  
-.services-fragment20 {
+.services-fragment19 {
   display: contents;
 }
  
-.services-text20 {
+.services-text19 {
   display: inline-block;
-}
- 
-.services-fragment17 {
-  display: contents;
-}
- 
-.services-text17 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
 }
  
 .services-fragment11 {
@@ -406,11 +392,11 @@
   font-family: "Magistral-Medium";
 }
  
-.services-fragment24 {
+.services-fragment23 {
   display: contents;
 }
  
-.services-text24 {
+.services-text23 {
   display: inline-block;
 }
  
@@ -423,14 +409,6 @@
   font-family: "Magistral-Medium";
 }
  
-.services-fragment22 {
-  display: contents;
-}
- 
-.services-text22 {
-  display: inline-block;
-}
- 
 .services-fragment21 {
   display: contents;
 }
@@ -439,19 +417,27 @@
   display: inline-block;
 }
  
-.services-fragment23 {
+.services-fragment20 {
   display: contents;
 }
  
-.services-text23 {
+.services-text20 {
   display: inline-block;
 }
  
-.services-fragment19 {
+.services-fragment22 {
   display: contents;
 }
  
-.services-text19 {
+.services-text22 {
+  display: inline-block;
+}
+ 
+.services-fragment18 {
+  display: contents;
+}
+ 
+.services-text18 {
   display: inline-block;
 }
  
@@ -464,11 +450,11 @@
   font-family: "Magistral-Medium";
 }
  
-.services-fragment18 {
+.services-fragment17 {
   display: contents;
 }
  
-.services-text18 {
+.services-text17 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -481,13 +467,13 @@
   display: inline-block;
 }
  
-.navbar8root-class-name3 {
+.navbar8root-class-name {
   top: 0px;
   left: 0px;
   position: sticky;
 }
  
-.navbar8root-class-name {
+.navbar8root-class-name3 {
   top: 0px;
   left: 0px;
   position: sticky;
@@ -588,14 +574,10 @@
     width: var(--dl-size-size-small);
     height: var(--dl-size-size-small);
   }
-  .navbar8-action2 {
-    display: none;
-    border-style: solid;
-  }
   .services-text12 {
     font-family: Magistral-Medium;
   }
-  .services-text20 {
+  .services-text19 {
     font-family: Magistral-Medium;
   }
   .services-text11 {
@@ -607,7 +589,7 @@
   .services-text10 {
     font-family: Magistral-Medium;
   }
-  .services-text19 {
+  .services-text18 {
     font-family: Magistral-Medium;
   }
   .services-text13 {
@@ -711,29 +693,20 @@
   display: contents;
 }
  
-.services-fragment28 {
-  display: contents;
-}
- 
-.services-text28 {
-  display: inline-block;
-}
- 
-.services-fragment25 {
-  display: contents;
-}
- 
-.services-text25 {
-  color: var(--dl-color-theme-primary1);
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
 .services-fragment27 {
   display: contents;
 }
  
 .services-text27 {
+  display: inline-block;
+}
+ 
+.services-fragment24 {
+  display: contents;
+}
+ 
+.services-text24 {
+  color: var(--dl-color-theme-primary1);
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -743,6 +716,15 @@
 }
  
 .services-text26 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment25 {
+  display: contents;
+}
+ 
+.services-text25 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -784,7 +766,7 @@
     width: 292px;
     height: 36px;
   }
-  .services-text27 {
+  .services-text26 {
     font-family: Magistral-Medium;
   }
 }
@@ -846,38 +828,11 @@
   text-decoration: none;
 }
  
-.services-fragment29 {
+.services-fragment28 {
   display: contents;
 }
  
-.services-text31 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment34 {
-  display: contents;
-}
- 
-.services-text36 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment35 {
-  display: contents;
-}
- 
-.services-text37 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment32 {
-  display: contents;
-}
- 
-.services-text34 {
+.services-text30 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -891,11 +846,11 @@
   font-family: "Magistral-Medium";
 }
  
-.services-fragment30 {
+.services-fragment34 {
   display: contents;
 }
  
-.services-text32 {
+.services-text36 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -905,6 +860,33 @@
 }
  
 .services-text33 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment32 {
+  display: contents;
+}
+ 
+.services-text34 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment29 {
+  display: contents;
+}
+ 
+.services-text31 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment30 {
+  display: contents;
+}
+ 
+.services-text32 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -997,20 +979,11 @@
   text-decoration: none;
 }
  
-.services-fragment41 {
+.services-fragment40 {
   display: contents;
 }
  
-.services-text44 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment38 {
-  display: contents;
-}
- 
-.services-text41 {
+.services-text43 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1020,15 +993,6 @@
 }
  
 .services-text40 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment40 {
-  display: contents;
-}
- 
-.services-text43 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1047,6 +1011,24 @@
 }
  
 .services-text42 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment35 {
+  display: contents;
+}
+ 
+.services-text38 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment38 {
+  display: contents;
+}
+ 
+.services-text41 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1086,7 +1068,7 @@
   }
 }
 
-.features65-wrapper-r6h9 {
+.features65-wrapper-k58h {
   display: contents;
 }
  
@@ -1143,38 +1125,11 @@
   text-decoration: none;
 }
  
-.services-fragment42 {
+.services-fragment41 {
   display: contents;
 }
  
-.services-text46 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment47 {
-  display: contents;
-}
- 
-.services-text51 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment48 {
-  display: contents;
-}
- 
-.services-text52 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment45 {
-  display: contents;
-}
- 
-.services-text49 {
+.services-text45 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1188,11 +1143,11 @@
   font-family: "Magistral-Medium";
 }
  
-.services-fragment43 {
+.services-fragment47 {
   display: contents;
 }
  
-.services-text47 {
+.services-text51 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1202,6 +1157,33 @@
 }
  
 .services-text48 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment45 {
+  display: contents;
+}
+ 
+.services-text49 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment42 {
+  display: contents;
+}
+ 
+.services-text46 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment43 {
+  display: contents;
+}
+ 
+.services-text47 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1298,20 +1280,11 @@
   text-decoration: none;
 }
  
-.services-fragment53 {
+.services-fragment52 {
   display: contents;
 }
  
-.services-text58 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment55 {
-  display: contents;
-}
- 
-.services-text60 {
+.services-text57 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1325,6 +1298,24 @@
   font-family: "Magistral-Medium";
 }
  
+.services-fragment53 {
+  display: contents;
+}
+ 
+.services-text58 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment48 {
+  display: contents;
+}
+ 
+.services-text53 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
 .services-fragment49 {
   display: contents;
 }
@@ -1334,29 +1325,20 @@
   font-family: "Magistral-Medium";
 }
  
-.services-fragment50 {
-  display: contents;
-}
- 
-.services-text55 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment52 {
-  display: contents;
-}
- 
-.services-text57 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
 .services-fragment51 {
   display: contents;
 }
  
 .services-text56 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
+}
+ 
+.services-fragment50 {
+  display: contents;
+}
+ 
+.services-text55 {
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1627,36 +1609,11 @@
   align-self: center;
 }
  
-.services-fragment59 {
-  display: contents;
-}
- 
-.services-text65 {
-  display: inline-block;
-}
- 
 .services-fragment58 {
   display: contents;
 }
  
 .services-text64 {
-  color: var(--dl-color-theme-accent1);
-  display: inline-block;
-}
- 
-.services-fragment56 {
-  display: contents;
-}
- 
-.services-text62 {
-  display: inline-block;
-}
- 
-.services-fragment60 {
-  display: contents;
-}
- 
-.services-text66 {
   display: inline-block;
 }
  
@@ -1665,6 +1622,31 @@
 }
  
 .services-text63 {
+  color: var(--dl-color-theme-accent1);
+  display: inline-block;
+}
+ 
+.services-fragment55 {
+  display: contents;
+}
+ 
+.services-text61 {
+  display: inline-block;
+}
+ 
+.services-fragment59 {
+  display: contents;
+}
+ 
+.services-text65 {
+  display: inline-block;
+}
+ 
+.services-fragment56 {
+  display: contents;
+}
+ 
+.services-text62 {
   display: inline-block;
 }
  
@@ -1877,7 +1859,6 @@
  
 .services-text18 {
   display: inline-block;
-  font-family: "Magistral-Medium";
 }
  
 .services-fragment19 {
@@ -1925,7 +1906,9 @@
 }
  
 .services-text24 {
+  color: var(--dl-color-theme-primary1);
   display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .services-fragment25 {
@@ -1933,7 +1916,6 @@
 }
  
 .services-text25 {
-  color: var(--dl-color-theme-primary1);
   display: inline-block;
   font-family: "Magistral-Medium";
 }
@@ -1953,15 +1935,6 @@
  
 .services-text27 {
   display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-fragment28 {
-  display: contents;
-}
- 
-.services-text28 {
-  display: inline-block;
 }
  
 .services-container2 {
@@ -1971,7 +1944,7 @@
   justify-content: center;
 }
  
-.services-text29 {
+.services-text28 {
   font-size: 1.6em;
   align-self: center;
   text-align: center;
@@ -1982,7 +1955,7 @@
   border-radius: var(--dl-radius-radius-radius8);
 }
  
-.services-text30 {
+.services-text29 {
   font-family: "Magistral-Medium";
   line-height: 2;
 }
@@ -1996,6 +1969,15 @@
  
 .services-container5 {
   display: contents;
+}
+ 
+.services-fragment28 {
+  display: contents;
+}
+ 
+.services-text30 {
+  display: inline-block;
+  font-family: "Magistral-Medium";
 }
  
 .services-fragment29 {
@@ -2052,19 +2034,19 @@
   font-family: "Magistral-Medium";
 }
  
+.services-text37 {
+  overflow: visible;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Magistral-Medium";
+}
+ 
 .services-fragment35 {
   display: contents;
 }
  
-.services-text37 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
 .services-text38 {
-  overflow: visible;
-  font-size: 20px;
-  text-align: center;
+  display: inline-block;
   font-family: "Magistral-Medium";
 }
  
@@ -2113,19 +2095,19 @@
   font-family: "Magistral-Medium";
 }
  
+.services-text44 {
+  overflow: visible;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Magistral-Medium";
+}
+ 
 .services-fragment41 {
   display: contents;
 }
  
-.services-text44 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
 .services-text45 {
-  overflow: visible;
-  font-size: 20px;
-  text-align: center;
+  display: inline-block;
   font-family: "Magistral-Medium";
 }
  
@@ -2183,19 +2165,19 @@
   font-family: "Magistral-Medium";
 }
  
+.services-text52 {
+  overflow: visible;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Magistral-Medium";
+}
+ 
 .services-fragment48 {
   display: contents;
 }
  
-.services-text52 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
 .services-text53 {
-  overflow: visible;
-  font-size: 20px;
-  text-align: center;
+  display: inline-block;
   font-family: "Magistral-Medium";
 }
  
@@ -2253,20 +2235,19 @@
   font-family: "Magistral-Medium";
 }
  
-.services-fragment55 {
-  display: contents;
-}
- 
 .services-text60 {
-  display: inline-block;
-  font-family: "Magistral-Medium";
-}
- 
-.services-text61 {
   overflow: visible;
   font-size: 20px;
   text-align: center;
   font-family: "Magistral-Medium";
+}
+ 
+.services-fragment55 {
+  display: contents;
+}
+ 
+.services-text61 {
+  display: inline-block;
 }
  
 .services-fragment56 {
@@ -2282,6 +2263,7 @@
 }
  
 .services-text63 {
+  color: var(--dl-color-theme-accent1);
   display: inline-block;
 }
  
@@ -2290,7 +2272,6 @@
 }
  
 .services-text64 {
-  color: var(--dl-color-theme-accent1);
   display: inline-block;
 }
  
@@ -2299,14 +2280,6 @@
 }
  
 .services-text65 {
-  display: inline-block;
-}
- 
-.services-fragment60 {
-  display: contents;
-}
- 
-.services-text66 {
   display: inline-block;
 }
  
@@ -2326,45 +2299,45 @@
   .services-text15 {
     font-family: Magistral-Medium;
   }
+  .services-text18 {
+    font-family: Magistral-Medium;
+  }
   .services-text19 {
     font-family: Magistral-Medium;
   }
-  .services-text20 {
-    font-family: Magistral-Medium;
-  }
-  .services-text27 {
+  .services-text26 {
     font-family: Magistral-Medium;
   }
   .services-container2 {
     width: 100%;
     height: 73px;
   }
-  .services-text29 {
+  .services-text28 {
     font-family: Magistral-Medium;
   }
   .services-container3 {
     width: 100%;
   }
-  .services-text38 {
+  .services-text37 {
     overflow: visible;
     font-size: 20px;
     align-self: center;
     text-align: left;
   }
-  .services-text45 {
+  .services-text44 {
     overflow: visible;
     font-size: 20px;
     text-align: left;
     font-family: Magistral-Medium;
   }
-  .services-text53 {
+  .services-text52 {
     overflow: visible;
     font-size: 20px;
     text-align: left;
     font-family: Magistral-Medium;
     text-transform: capitalize;
   }
-  .services-text61 {
+  .services-text60 {
     overflow: visible;
     font-size: 20px;
     text-align: left;

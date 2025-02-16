@@ -345,16 +345,11 @@
   text-decoration: none;
 }
  
-.navbar8-action2 {
-  display: none;
-  text-decoration: none;
-}
- 
 .navbar8-fragment10 {
   display: contents;
 }
  
-.navbar8-text13 {
+.navbar8-text12 {
   display: inline-block;
 }
  
@@ -362,7 +357,7 @@
   display: contents;
 }
  
-.navbar8-text14 {
+.navbar8-text13 {
   display: inline-block;
 }
  
@@ -370,7 +365,7 @@
   display: contents;
 }
  
-.navbar8-text15 {
+.navbar8-text14 {
   display: inline-block;
 }
  
@@ -378,7 +373,7 @@
   display: contents;
 }
  
-.navbar8-text16 {
+.navbar8-text15 {
   display: inline-block;
 }
  
@@ -386,7 +381,7 @@
   display: contents;
 }
  
-.navbar8-text17 {
+.navbar8-text16 {
   display: inline-block;
 }
  
@@ -394,7 +389,7 @@
   display: contents;
 }
  
-.navbar8-text18 {
+.navbar8-text17 {
   display: inline-block;
 }
  
@@ -402,7 +397,7 @@
   display: contents;
 }
  
-.navbar8-text19 {
+.navbar8-text18 {
   display: inline-block;
 }
  
@@ -410,7 +405,7 @@
   display: contents;
 }
  
-.navbar8-text20 {
+.navbar8-text19 {
   display: inline-block;
 }
  
@@ -418,7 +413,7 @@
   display: contents;
 }
  
-.navbar8-text21 {
+.navbar8-text20 {
   display: inline-block;
 }
  
@@ -426,7 +421,7 @@
   display: contents;
 }
  
-.navbar8-text22 {
+.navbar8-text21 {
   display: inline-block;
 }
  
@@ -434,7 +429,7 @@
   display: contents;
 }
  
-.navbar8-text23 {
+.navbar8-text22 {
   display: inline-block;
 }
  
@@ -442,7 +437,7 @@
   display: contents;
 }
  
-.navbar8-text24 {
+.navbar8-text23 {
   display: inline-block;
 }
  
@@ -450,7 +445,7 @@
   display: contents;
 }
  
-.navbar8-text25 {
+.navbar8-text24 {
   display: inline-block;
 }
  
@@ -458,25 +453,17 @@
   display: contents;
 }
  
-.navbar8-text26 {
+.navbar8-text25 {
   display: inline-block;
 }
  
-.navbar8-fragment24 {
-  display: contents;
-}
- 
-.navbar8-text27 {
-  display: inline-block;
-}
- 
-.navbar8root-class-name3 {
+.navbar8root-class-name {
   top: 0px;
   left: 0px;
   position: sticky;
 }
  
-.navbar8root-class-name {
+.navbar8root-class-name3 {
   top: 0px;
   left: 0px;
   position: sticky;
@@ -577,9 +564,8 @@
     width: var(--dl-size-size-small);
     height: var(--dl-size-size-small);
   }
-  .navbar8-action2 {
-    display: none;
-    border-style: solid;
+  .navbar8-text12 {
+    font-family: Magistral-Medium;
   }
   .navbar8-text13 {
     font-family: Magistral-Medium;
@@ -587,19 +573,16 @@
   .navbar8-text14 {
     font-family: Magistral-Medium;
   }
+  .navbar8-text15 {
+    font-family: Magistral-Medium;
+  }
   .navbar8-text16 {
     font-family: Magistral-Medium;
   }
-  .navbar8-text17 {
+  .navbar8-text22 {
     font-family: Magistral-Medium;
   }
-  .navbar8-text18 {
-    font-family: Magistral-Medium;
-  }
-  .navbar8-text24 {
-    font-family: Magistral-Medium;
-  }
-  .navbar8-text27 {
+  .navbar8-text25 {
     font-family: Magistral-Medium;
   }
 }
